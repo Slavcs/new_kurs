@@ -1,0 +1,16 @@
+beatysalon\Salon.class
+servercp\ServerCP.class
+control\InsertUserTable.class
+beatysalon\Service.class
+beatysalon\Record.class
+beatysalon\Client.class
+control\InsertRecordTable.class
+control\PreparedStatement.class
+beatysalon\Employee.class
+control\DateBase.class
+control\InsertServiceTable.class
+beatysalon\User.class
+servercp\ServerWork.class
+beatysalon\Print.class
+control\InsertSalonTable.class
+control\Configs.class

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClientCP/ClientCP.iml" filepath="$PROJECT_DIR$/ClientCP/ClientCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServerCP/ServerCP.iml" filepath="$PROJECT_DIR$/ServerCP/ServerCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/код.iml" filepath="$PROJECT_DIR$/.idea/код.iml" />
+    </modules>
+  </component>
+</project>
